@@ -12,5 +12,7 @@
 
 ***
 ## Formulário Qiskit
-```
-[Formulário](https://github.com/pedroripper/qiskit_tutoriais/blob/master/formulario_qiskit.pdf)
+
+<a href="https://github.com/pedroripper/qiskit_tutoriais/blob/master/formulario_qiskit.pdf
+" target="_blank">Formulário</a>
+
