@@ -8,3 +8,9 @@
 |  [#03](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Qiskit-tutorial%2303.ipynb)  |  Representando o Qubit em uma Esfera de Bloch |
 |  [#04](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Qiskit-tutorial%2304.ipynb)  |  Usando as portas Rx, Ry e Rz para rotacionar qubits |
 |  [#05](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Qiskit-tutorial%2305.ipynb)  |  Usando as portas X, Y e Z |
+
+
+***
+## Formulário Qiskit
+```
+[Formulário](https://github.com/pedroripper/qiskit_tutoriais/blob/master/formulario_qiskit.pdf)
