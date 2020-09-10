@@ -10,8 +10,3 @@
 |  [#05](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Qiskit-tutorial%2305.ipynb)  |  Usando as portas X, Y e Z |
 
 
-## Formulário Qiskit
-
-<a href="https://github.com/pedroripper/qiskit_tutoriais/blob/master/formulario_qiskit.pdf
-" target="_blank">Formulário</a>
-
