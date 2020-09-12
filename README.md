@@ -11,6 +11,6 @@
 
 
 # Monitorias
-|       Tutorial          |  Descrição                                                       |
+|       Data          |  Descrição                                                       |
 | ----------------------- | ---------------------------------------------------------------- |
 |  [11/9/20](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Monitoria/monitoria1.ipynb)  | Monitoria sobre a primeira lista de Qiskit |
