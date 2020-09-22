@@ -11,7 +11,7 @@
 |  [#06](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Tutoriais/Qiskit-tutorial%2306.ipynb)  |  "Somando" circuitos |
 |  [#07](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Tutoriais/Qiskit-tutorial%2307.ipynb)  | Achando a unitária que representa as operações |
 |  [#08](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Tutoriais/Qiskit-tutorial%2308.ipynb)  |  Aplicando matrizes nos circuitos |
-
+|  [#09](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Tutoriais/Qiskit-tutorial%2309.ipynb)  |  Transformando o circuito para apenas uma porta |
 
 # Monitorias
 |       Data          |  Descrição                                                       |
