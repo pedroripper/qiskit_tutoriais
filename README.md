@@ -19,3 +19,4 @@
 |       Data          |  Descrição                                                       |
 | ----------------------- | ---------------------------------------------------------------- |
 |  [11/9/20](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Monitoria/monitoria1.ipynb)  | Monitoria sobre a primeira lista de Qiskit |
+|  [29/9/20](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Monitoria/monitoria-3.ipynb)  | Monitoria sobre a segunda lista de Qiskit |
