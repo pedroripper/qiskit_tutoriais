@@ -1,5 +1,7 @@
-# Tutoriais de Qiskit
 
+[![What is Qiskit?](https://github.com/pedroripper/qiskit_tutoriais/blob/master/QGSS21_Wallpaper03.png)](https://youtu.be/P5cGeDKOIP0)
+
+# Tutoriais de Qiskit
 
 |       Tutorial          |  Descrição                                                       |
 | ----------------------- | ---------------------------------------------------------------- |
@@ -19,6 +21,7 @@
 
 
 # Monitorias
+
 |       Data          |  Descrição                                                       |
 | ----------------------- | ---------------------------------------------------------------- |
 |  [11/9/20](https://github.com/pedroripper/qiskit_tutoriais/blob/master/Monitoria/monitoria1.ipynb)  | Monitoria sobre a primeira lista de Qiskit |
