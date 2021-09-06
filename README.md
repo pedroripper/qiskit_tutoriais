@@ -1,7 +1,11 @@
 
 [![What is Qiskit?](https://github.com/pedroripper/qiskit_tutoriais/blob/master/QGSS21_Wallpaper03.png)](https://youtu.be/P5cGeDKOIP0)
 
-### 📚 [Drive da Monitoria](https://drive.google.com/drive/folders/1_qiNurq5lLX-kCU6VXrgRUNw5HialsTx?usp=sharing)
+# Links úteis
+
+- 📚 [Drive da Monitoria](https://drive.google.com/drive/folders/1_qiNurq5lLX-kCU6VXrgRUNw5HialsTx?usp=sharing)
+- ⚛️ [Plataforma da IBM](https://quantum-computing.ibm.com/)
+- 🎥 [Tutoriais da IBM](https://www.youtube.com/c/qiskit/playlists?view=50&sort=dd&shelf_id=3)
 
 
 # Tutoriais de Qiskit
