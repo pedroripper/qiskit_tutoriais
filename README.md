@@ -1,6 +1,9 @@
 
 [![What is Qiskit?](https://github.com/pedroripper/qiskit_tutoriais/blob/master/QGSS21_Wallpaper03.png)](https://youtu.be/P5cGeDKOIP0)
 
+### 📚 [Drive da Monitoria](https://drive.google.com/drive/folders/1_qiNurq5lLX-kCU6VXrgRUNw5HialsTx?usp=sharing)
+
+
 # Tutoriais de Qiskit
 
 |       Tutorial          |  Descrição                                                       |
